@@ -2,4 +2,4 @@
 
 ---
 
-## A minimal dark theme for Visual Studio Code that reflects a classy Pacific coast mood.
+## A minimal dark theme that reflects a classy Pacific coast mood.
