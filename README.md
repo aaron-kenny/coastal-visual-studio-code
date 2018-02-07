@@ -2,6 +2,8 @@
 
 ---
 
+![Coastal Visual Studio Code](assets/screenshot.jpg?raw=true)
+
 # Coastal Theme for Visual Studio Code
 
 A minimal dark theme for [Visual Studio Code](https://code.visualstudio.com/) that reflects a classy Pacific coast mood.
