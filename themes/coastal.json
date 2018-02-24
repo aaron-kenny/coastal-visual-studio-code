@@ -235,6 +235,20 @@
       }
     },
     {
+      "name": "Comment Keyword",
+      "scope": "comment keyword",
+      "settings": {
+        "foreground": "#474747"
+      }
+    },
+    {
+      "name": "Comment Support Class",
+      "scope": "comment support.class",
+      "settings": {
+        "foreground": "#474747"
+      }
+    },
+    {
       "name": "Constant Character",
       "scope": "constant.character",
       "settings": {
@@ -673,7 +687,7 @@
       "name": "[Java](JavaDoc) Comment Block Documentation HTML Entities",
       "scope": "source.java comment.block.documentation.javadoc punctuation.definition.entity.html",
       "settings": {
-        "foreground": "#6f7f8f"
+        "foreground": "#474747"
       }
     },
     {
